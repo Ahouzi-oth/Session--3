@@ -3,7 +3,7 @@ let notes = [];
 let taille = prompt("la taille de tableau :");
 let somme = 0;
 for (let i = 0; i < taille; i++) {
-    notes[i] = Number(prompt("entrer la note : "));
+    notes[i] = Number(prompt("entrer la note " + (i + 1) + " : "));
     somme = somme + notes[i];
 
 }
