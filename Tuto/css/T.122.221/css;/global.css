@@ -1,3 +1,20 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    margin: 0;
+    background: #f9fafb;
+    font-family: Arial, sans-serif;
+    color: #1f2937;
+}
+
+.carte-article {
+    width: 300px;
+    background: white;
+    /* Contraste avec le body */
+    border: 1px solid #e5e7eb;
+    margin-bottom: 24px;
+    border-radius: 16px;
+    overflow: hidden;
+}
