@@ -1,0 +1,178 @@
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .lo-go {
+            color: #FFD04A;
+            font-family: Montserrat;
+            font-size: 30px;
+        }
+        
+        .logoo {
+            color: #102858;
+            font-family: Montserrat;
+            margin-left: 40px;
+            margin-bottom: 2px;
+            font-size: 30px;
+            margin-top: 10px;
+        }
+        
+        .nav {
+            text-decoration: none;
+            font-family: Lato;
+            color: black;
+        }
+        
+        .navi {
+            text-decoration: none;
+            font-family: Lato;
+            color: black;
+            background-color: #FFD04A;
+            border-radius: 10px;
+            padding: 10px 15px 10px 15px;
+            margin-right: 35px;
+        }
+        
+        .barre-navigation {
+            display: flex;
+            margin-top: 15px;
+            gap: 30px;
+            justify-content: space-between;
+        }
+        
+        .lg {
+            text-decoration: none;
+            margin-bottom: 10px;
+        }
+        
+        .connexion {
+            margin-top: 15px;
+            margin-right: 18px;
+        }
+        
+        .connexion a:hover {
+            color: white;
+            background-color: #102858;
+        }
+        
+        .barre-navigation a:hover {
+            color: #1769E8;
+            border-bottom: 2px solid #1769E8;
+        }
+        
+        .apprendre {
+            display: flex;
+            justify-content: space-between;
+            padding-left: 40px;
+            background-color: #EDF5FF;
+            height: 410px;
+            margin-left: -8px;
+            margin-right: -8px;
+        }
+        
+        .p1 {
+            font-family: Poppins;
+            color: #1769E8;
+            margin-top: 45px;
+        }
+        
+        .title {
+            font-family: Montserrat;
+            font-size: 50px;
+            margin-top: -20px;
+        }
+        
+        .demain {
+            font-family: Montserrat;
+            font-size: 50px;
+            margin-top: -45px;
+            color: #1769E8;
+            margin-bottom: 5px;
+        }
+        
+        .p2 {
+            font-size: 20px;
+            color: #435A7E;
+        }
+        
+        .bouton {
+            display: flex;
+            gap: 45px;
+            margin-top: 39px;
+        }
+        
+        .decouvrir a {
+            border: 1px solid #1769E8;
+            border-radius: 10px;
+            padding: 8px 20px 8px 20px;
+            background-color: #1769E8;
+        }
+        
+        .savoir a {
+            border: 1px solid #1769E8;
+            border-radius: 10px;
+            padding: 8px 30px 8px 30px;
+            color: #1769E8;
+        }
+        
+        .decou {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .sav {
+            text-decoration: none;
+            color: #1769E8;
+        }
+        
+        .decouvrir a:hover {
+            color: #1769E8;
+            background-color: white;
+        }
+        
+        .savoir a:hover {
+            /* color: white; */
+            background-color: white;
+        }
+        
+        .section2 {
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        .form {
+            display: flex;
+            gap: 30px;
+        }
+        
+        .graduation-cap {
+            margin-top: 20px;
+            color: #1769E8;
+            font-size: 30px;
+            border: 1px solid;
+            text-align: center;
+            border-radius: 70%;
+            height: 50px;
+            width: 50px;
+            padding-top: 10px;
+            padding-left: 3px;
+            padding-right: 3px;
+            background-color: #d8e6fc;
+        }
+        
+        .graduation-cape {
+            margin-top: 20px;
+            color: #f8b80a;
+            font-size: 30px;
+            border: 1px solid;
+            text-align: center;
+            border-radius: 70%;
+            height: 50px;
+            width: 50px;
+            padding-top: 10px;
+            padding-left: 3px;
+            padding-right: 3px;
+            background-color: #fff1cc;
+        }
